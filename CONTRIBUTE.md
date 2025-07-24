@@ -82,7 +82,7 @@ to this repository.
 
    **To be eligible:**
    - Your contribution must be original and valuable
-   - You must include your **Full Name** and **USN** in the pull request description
+   - You must include your **Full Name**, **USN** and **College Email ID** in the pull request description
 
 ---
 

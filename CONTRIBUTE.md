@@ -1,3 +1,10 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/RVCE-Coding-Club/RVCE-Coding-Bootkit/main/gitAssets/rvce-logo-with-text.png" alt="RVCE Text Logo" height="80">
+</p>
+<p align="right">
+  <img src="https://raw.githubusercontent.com/RVCE-Coding-Club/RVCE-Coding-Bootkit/main/gitAssets/cc.png" alt="Coding Club Logo" height="60">
+</p>
+
 # 🚀 How to Contribute to RVCE-Coding-Bootkit
 
 Welcome! We encourage second, third, and fourth year students to add valuable learning resources, project ideas, or code samples to this repository.

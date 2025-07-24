@@ -12,9 +12,6 @@ Welcome to the **C++ Basic to Advance** resource folder! This section is designe
 - **Projects/**  
   Mini-projects and practical applications to help you apply your C++ knowledge.
 
-- **Bonus Project**
-  I have also added one of my own projects **QuizCraze** at the end, which I built during my first semester for the C++ elective EL. If you feel the sample projects are basic you can always check this out: [quiz-craze](https://github.com/VishalBhat07/quiz-craze)
-
 ## 🚀 How to Use
 
 1. **Start with the Tutorials:**  

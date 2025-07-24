@@ -1,6 +1,9 @@
 # 🚀 How to Contribute to RVCE-Coding-Bootkit
 
-Welcome! We encourage second, third, and fourth year students to add valuable learning resources, project ideas, or code samples to this repository.
+*A step-by-step guide for contributors*
+
+Welcome! We encourage second, third, and fourth year students to add valuable learning resources, project ideas, or code samples
+to this repository.
 
 
 
@@ -57,9 +60,16 @@ Welcome! We encourage second, third, and fourth year students to add valuable le
 8. **Create a Pull Request (PR)**  
    - Go to your forked repository on GitHub  
    - Click **Compare & pull request**  
-   - Add a clear description of your changes  
+   - Add a clear description of your changes, and mention your full name and USN 
    - Click **Create pull request**
+
+9. **Get Recognized with an E-Certificate!**  
+   🌟 All students whose pull request is accepted will receive an **E-Certificate of contribution**!
+
+   **To be eligible:**
+   - Your contribution must be original and valuable
+   - You must include your **Full Name** and **USN** in the pull request description
 
 ---
 
-Thank you for contributing!🎉
+Thank you for contributing! 🎉

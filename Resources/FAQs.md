@@ -4,4 +4,4 @@ Welcome to the FAQ section! This page is designed to help **first-year students*
 
 
 
-## 💻 Laptop Recommendations
+## 💻 Laptop Buying Guides

@@ -11,7 +11,7 @@
 
 ## 📚 What is This Repository?
 
-This repository is a centralized knowledge base designed to help first-year CS students get started with programming, development, computer fundamentals, and more. Whether you're preparing for coding rounds, exploring internships, or understanding how the internet works, this toolkit has you covered.
+This repository is a centralized knowledge base designed to help first-year students get started with programming, development, computer fundamentals, and more. Whether you're preparing for coding rounds, exploring internships, or understanding how the internet works, this toolkit has you covered.
 
 🧠 **No prior experience needed — just curiosity and consistency!**
 

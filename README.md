@@ -88,13 +88,11 @@ cd RVCE-Launchpad
 - Students looking for structured CS resources
 - Self-learners aiming to build their fundamentals strong
 
-
-
 ## 📬 Need Help?
-
 - 📥 Open an Issue
-- 📧 Contact the repo maintainer via GitHub or email
+- 📧 Contact the repo maintainers: [Sumukha Upadhyaya](mailto:sumukhaupadhyaya@gmail.com), [Vivaan Hooda](mailto:vivaan.hooda@gmail.com), [Vidisha Dewan](mailto:vidishadewan2020@gmail.com).
 - 🧑‍🤝‍🧑 Form a study group and start learning together!
+
 
 ## 🌟 Star the Repo
 

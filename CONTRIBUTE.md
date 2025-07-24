@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/RVCE-Coding-Club/RVCE-Coding-Bootkit/main/gitAssets/rvce-logo-with-text.png" alt="RVCE Text Logo" height="80">
+  <img src="https://raw.githubusercontent.com/RVCE-Coding-Club/RVCE-Coding-Bootkit/main/gitAssets/RVCE_Logo_With_Text.png" alt="RVCE Text Logo" height="80">
 </p>
 <p align="right">
-  <img src="https://raw.githubusercontent.com/RVCE-Coding-Club/RVCE-Coding-Bootkit/main/gitAssets/cc.png" alt="Coding Club Logo" height="60">
+  <img src="https://raw.githubusercontent.com/RVCE-Coding-Club/RVCE-Coding-Bootkit/main/gitAssets/CCLogo_BG_Removed.png" alt="Coding Club Logo" height="60">
 </p>
 
 # 🚀 How to Contribute to RVCE-Coding-Bootkit

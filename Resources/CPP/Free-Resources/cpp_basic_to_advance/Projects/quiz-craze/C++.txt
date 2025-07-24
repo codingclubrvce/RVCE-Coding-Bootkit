@@ -1,0 +1,79 @@
+Question 1
+What is the purpose of the 'const' keyword in C++?
+Option A: It declares a constant variable.
+Option B: It specifies a function that does not modify the object.
+Option C: It declares a variable that cannot be modified after initialization.
+Option D: It is used to define constants in a program.
+C
+
+Question 2
+What is the difference between 'malloc' and 'new' in C++?
+Option A: They are interchangeable; there is no difference.
+Option B: 'malloc' is used for allocating memory for primitive types, while 'new' is used for objects.
+Option C: 'malloc' is used for dynamic memory allocation, and 'new' is used for static memory allocation.
+Option D: 'new' is used for dynamic memory allocation, while 'malloc' is used for objects.
+B
+
+Question 3
+What is a lambda expression in C++?
+Option A: A function pointer.
+Option B: A way to declare a constant variable.
+Option C: An anonymous function.
+Option D: A reserved keyword for error handling.
+C
+
+Question 4
+What is the purpose of the 'friend' keyword in C++?
+Option A: To declare a function that can access private and protected members of a class.
+Option B: To create a new class.
+Option C: To specify a function that cannot be overloaded.
+Option D: To declare a variable that can be accessed globally.
+A
+
+Question 5
+What is the role of the 'virtual' keyword in C++?
+Option A: It is used for defining global variables.
+Option B: It indicates that a function may be overridden in a derived class.
+Option C: It specifies a constant variable.
+Option D: It is used for dynamic memory allocation.
+B
+
+Question 6
+What is the purpose of the 'namespace' keyword in C++?
+Option A: To define a class.
+Option B: To create a scope for identifiers.
+Option C: To declare a constant variable.
+Option D: To allocate memory for an array.
+B
+
+Question 7
+What is an abstract class in C++?
+Option A: A class with no member functions.
+Option B: A class with only private members.
+Option C: A class that cannot be instantiated and may have pure virtual functions.
+Option D: A class with no member variables.
+C
+
+Question 8
+How is exception handling implemented in C++?
+Option A: Using try and catch blocks.
+Option B: By using goto statements.
+Option C: Through the use of macros.
+Option D: With the help of the assert keyword.
+A
+
+Question 9
+What is the purpose of the 'typeid' operator in C++?
+Option A: To perform type conversion.
+Option B: To obtain information about the type of an expression.
+Option C: To declare a variable with a specific type.
+Option D: To compare two variables of different types.
+B
+
+Question 10
+What is the purpose of the 'this' pointer in C++?
+Option A: To access the current instance of a class.
+Option B: To declare a constant variable.
+Option C: To create an instance of a class.
+Option D: To access static members of a class.
+A

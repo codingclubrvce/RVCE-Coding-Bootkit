@@ -1,0 +1,79 @@
+Question 1
+What does the acronym 'HTML' stand for?
+Option A: Hyperlink Text Markup Language
+Option B: Hyper Transfer Markup Language
+Option C: Hypertext Markup Language
+Option D: High-Level Text Markup Language
+C
+
+Question 2
+Which of the following is not a programming language?
+Option A: Python
+Option B: SQL
+Option C: HTML
+Option D: POSIX
+D
+
+Question 3
+What is the purpose of an 'algorithm' in computer science?
+Option A: To debug code
+Option B: To design efficient solutions to problems
+Option C: To create user interfaces
+Option D: To write assembly language
+B
+
+Question 4
+What is the time complexity of the binary search algorithm?
+Option A: O(1)
+Option B: O(n)
+Option C: O(log n)
+Option D: O(n^2)
+C
+
+Question 5
+What is a 'stack' in computer science?
+Option A: A data structure with first-in-first-out (FIFO) access
+Option B: A data structure with last-in-first-out (LIFO) access
+Option C: A sorting algorithm
+Option D: A type of loop structure
+B
+
+Question 6
+Which programming paradigm emphasizes immutability and side-effect-free functions?
+Option A: Object-Oriented Programming
+Option B: Procedural Programming
+Option C: Functional Programming
+Option D: Logic Programming
+C
+
+Question 7
+What does the term 'API' stand for?
+Option A: Application Programming Interface
+Option B: Advanced Program Instruction
+Option C: Algorithmic Programming Interface
+Option D: Automated Program Integration
+A
+
+Question 8
+What is the purpose of a 'compiler' in programming?
+Option A: To execute code
+Option B: To translate high-level code to machine code
+Option C: To debug code
+Option D: To manage memory allocation
+B
+
+Question 9
+What is the difference between 'HTTP' and 'HTTPS'?
+Option A: HTTP is secure, and HTTPS is not
+Option B: HTTPS is the secure version of HTTP
+Option C: HTTP is used for text, and HTTPS is used for images
+Option D: There is no difference
+B
+
+Question 10
+In relational databases, what does 'SQL' stand for?
+Option A: Structured Query Language
+Option B: Sequential Question Language
+Option C: System Query Language
+Option D: Semantic Question Language
+A

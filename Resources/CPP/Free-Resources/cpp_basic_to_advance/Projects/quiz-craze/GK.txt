@@ -1,0 +1,79 @@
+Question 1
+What is the capital of France?
+Option A: Berlin
+Option B: Paris
+Option C: Rome
+Option D: Madrid
+B
+
+Question 2
+Which planet is known as the Red Planet?
+Option A: Venus
+Option B: Mars
+Option C: Jupiter
+Option D: Saturn
+B
+
+Question 3
+What is the largest mammal in the world?
+Option A: Elephant
+Option B: Blue Whale
+Option C: Giraffe
+Option D: Lion
+B
+
+Question 4
+Who wrote "Romeo and Juliet"?
+Option A: William Shakespeare
+Option B: Charles Dickens
+Option C: Jane Austen
+Option D: Mark Twain
+A
+
+Question 5
+What is the capital of Japan?
+Option A: Beijing
+Option B: Tokyo
+Option C: Seoul
+Option D: Bangkok
+B
+
+Question 6
+Which country is known as the Land of the Rising Sun?
+Option A: China
+Option B: Japan
+Option C: South Korea
+Option D: Thailand
+B
+
+Question 7
+What is the currency of Germany?
+Option A: Euro
+Option B: Pound Sterling
+Option C: Dollar
+Option D: Yen
+A
+
+Question 8
+Who painted the Mona Lisa?
+Option A: Leonardo da Vinci
+Option B: Vincent van Gogh
+Option C: Pablo Picasso
+Option D: Michelangelo
+A
+
+Question 9
+Which gas do plants absorb from the atmosphere?
+Option A: Oxygen
+Option B: Carbon Dioxide
+Option C: Nitrogen
+Option D: Hydrogen
+B
+
+Question 10
+In which year did the Titanic sink?
+Option A: 1905
+Option B: 1912
+Option C: 1920
+Option D: 1931
+B

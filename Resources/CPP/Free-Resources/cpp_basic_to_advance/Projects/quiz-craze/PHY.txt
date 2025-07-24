@@ -1,0 +1,79 @@
+Question 1
+What is the formula for calculating force?
+Option A: F = m * a
+Option B: E = mc^2
+Option C: P = m * v
+Option D: F = m / a
+A
+
+Question 2
+Which of the following is a scalar quantity?
+Option A: Force
+Option B: Velocity
+Option C: Acceleration
+Option D: Mass
+D
+
+Question 3
+What is the SI unit of electric current?
+Option A: Watt
+Option B: Ampere
+Option C: Volt
+Option D: Ohm
+B
+
+Question 4
+In physics, what does the acronym 'MRI' stand for?
+Option A: Magnetic Resonance Imaging
+Option B: Medical Radiology Instrument
+Option C: Microscopic Resolution Instrument
+Option D: Magnetism Research Institute
+A
+
+Question 5
+What is the law of conservation of energy?
+Option A: Energy cannot be created or destroyed, only transformed.
+Option B: Energy can be created out of nothing.
+Option C: Energy is only conserved in closed systems.
+Option D: Energy is constantly decreasing.
+A
+
+Question 6
+Which scientist is known for his laws of motion?
+Option A: Isaac Newton
+Option B: Albert Einstein
+Option C: Galileo Galilei
+Option D: Nikola Tesla
+A
+
+Question 7
+What is the speed of light in a vacuum?
+Option A: 300,000 km/s
+Option B: 150,000 km/s
+Option C: 1,000,000 km/s
+Option D: 500,000 km/s
+A
+
+Question 8
+What is the unit of power?
+Option A: Watt
+Option B: Joule
+Option C: Newton
+Option D: Volt
+A
+
+Question 9
+What is the law of gravitation?
+Option A: Every object persists in its state of rest or uniform motion unless acted upon by an external force.
+Option B: The force between two point masses is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.
+Option C: For every action, there is an equal and opposite reaction.
+Option D: The total energy of an isolated system remains constant over time.
+B
+
+Question 10
+What is the SI unit of pressure?
+Option A: Pascal
+Option B: Newton
+Option C: Joule
+Option D: Watt
+A

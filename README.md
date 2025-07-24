@@ -66,6 +66,8 @@ Follow these simple steps to start learning:
 
 ```bash
 git clone https://github.com/overclocked-2124/RVCE-Launchpad.git
+```
+```bash
 cd RVCE-Launchpad
 ```
 

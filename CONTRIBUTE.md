@@ -86,4 +86,8 @@ to this repository.
 
 ---
 
+## 📬 Need Help?
+- 📥 Open an Issue
+- 📧 Contact the repo maintainers: [Sumukha Upadhyaya](mailto:sumukhaupadhyaya@gmail.com), [Vivaan Hooda](mailto:vivaan.hooda@gmail.com), [Vidisha Dewan](mailto:vidishadewan2020@gmail.com).
+
 Thank you for contributing! 🎉

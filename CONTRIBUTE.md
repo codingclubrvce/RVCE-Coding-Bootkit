@@ -42,6 +42,8 @@ to this repository.
 3. **Navigate to the Project Directory**  
    ```bash
    cd RVCE-Coding-Bootkit
+   ```
+   ```bash
    cd Resources
    ```
 
@@ -59,6 +61,8 @@ to this repository.
 6. **Stage and Commit Your Changes**  
    ```bash
    git add .
+   ```
+   ```bash
    git commit -m "Add: your meaningful message here"
    ```
 

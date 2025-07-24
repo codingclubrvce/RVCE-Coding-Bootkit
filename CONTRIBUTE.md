@@ -1,23 +1,11 @@
-<table width="100%" style="border: 0; border-collapse: collapse; border-spacing: 0;">
-<tr style="height: 100px; border: 0;">
-<td align="left" style="border: 0; padding: 0; margin: 0; vertical-align: middle; height: 100px;">
-  <a href="https://rvce.edu.in">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 30px;">
+  <a href="https://rvce.edu.in" target="_blank">
     <img src="https://github.com/overclocked-2124/RVCE-Coding-Bootkit/blob/main/gitAssets/RVCE_Logo_With_Text.png" alt="RVCE Text Logo" height="80">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</td>
-<td style="border: 0; padding: 0; margin: 0; height: 100px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td style="border: 0; padding: 0; margin: 0; height: 100px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td style="border: 0; padding: 0; margin: 0; height: 100px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td style="border: 0; padding: 0; margin: 0; height: 100px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td style="border: 0; padding: 0; margin: 0; height: 100px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-<td align="right" style="border: 0; padding: 0; margin: 0; vertical-align: middle; height: 100px;">
-  <a href="https://www.linkedin.com/company/coding-club-rvce/posts/?feedView=all">
+  <a href="https://www.linkedin.com/company/coding-club-rvce/posts/?feedView=all" target="_blank">
     <img src="https://github.com/overclocked-2124/RVCE-Coding-Bootkit/blob/main/gitAssets/CCLogo_BG_Removed.png" alt="Coding Club Logo" height="80">
   </a>
-</td>
-</tr>
-</table>
+</div>
 
 # 🚀 How to Contribute to RVCE-Coding-Bootkit
 

@@ -65,10 +65,10 @@ Follow these simple steps to start learning:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/overclocked-2124/RVCE-Launchpad.git
+git clone https://github.com/overclocked-2124/RVCE-Coding-Bootkit
 ```
 ```bash
-cd RVCE-Launchpad
+cd RVCE-Coding-Bootkit
 ```
 
 ### 2. Browse by Topic

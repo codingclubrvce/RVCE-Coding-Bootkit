@@ -13,7 +13,14 @@
 
 *A curated bootkit for first-year students, interested in Computer Science, to explore core concepts, tools, and resources.*
 
+<br> 
+<br>
 
+<div align="center">
+    <a href="https://rvce.edu.in">
+        <img src="https://github.com/overclocked-2124/RVCE-Coding-Bootkit/raw/main/gitAssets/RVCE_Logo.png" alt="RVCE Logo" height ="300">
+    </a>
+</div>
 
 ## 📚 What is This Repository?
 

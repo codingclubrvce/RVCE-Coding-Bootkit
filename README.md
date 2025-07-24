@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 30px;">
   <a href="https://rvce.edu.in" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/overclocked-2124/RVCE-Coding-Bootkit/main/gitAssets/RVCE_Logo_With_Text.png" alt="RVCE Text Logo" height="80">
+    <img src="https://github.com/overclocked-2124/RVCE-Coding-Bootkit/blob/main/gitAssets/RVCE_Logo_With_Text.png" alt="RVCE Text Logo" height="80">
   </a>
   <a href="https://www.linkedin.com/company/coding-club-rvce/posts/?feedView=all" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/overclocked-2124/RVCE-Coding-Bootkit/main/gitAssets/CCLogo_BG_Removed.png" alt="Coding Club Logo" height="80">

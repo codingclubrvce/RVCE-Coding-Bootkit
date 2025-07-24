@@ -1,4 +1,4 @@
-# 🚀 How to Contribute to RVCE-Launchpad
+# 🚀 How to Contribute to RVCE-Coding-Bootkit
 
 Welcome! We encourage second, third, and fourth year students to add valuable learning resources, project ideas, or code samples to this repository.
 
@@ -22,13 +22,14 @@ Welcome! We encourage second, third, and fourth year students to add valuable le
 2. **Clone the Forked Repository**  
    Open your terminal (macOS/Linux) or Git Bash (Windows) and run:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/RVCE-Launchpad.git
+   git clone https://github.com/YOUR_USERNAME/RVCE-Coding-Bootkit.git
    ```
    Replace `YOUR_USERNAME` with your GitHub username.
 
 3. **Navigate to the Project Directory**  
    ```bash
-   cd RVCE-Launchpad
+   cd RVCE-Coding-Bootkit
+   cd Resources
    ```
 
 4. **Create a New Branch**  

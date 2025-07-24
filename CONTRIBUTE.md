@@ -1,3 +1,8 @@
+<div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 50px; padding: 20px 0;">
+  <img src="https://github.com/overclocked-2124/RVCE-Coding-Bootkit/blob/main/gitAssets/RVCE_Logo_With_Text.png" alt="RVCE Text Logo" height="80">
+  <img src="https://github.com/overclocked-2124/RVCE-Coding-Bootkit/blob/main/gitAssets/CCLogo_BG_Removed.png" alt="Coding Club Logo" height="80">
+</div>
+
 # 🚀 How to Contribute to RVCE-Coding-Bootkit
 
 *A step-by-step guide for contributors*

@@ -1,0 +1,87 @@
+1. N meetings in one room
+
+from typing import List
+class Solution:
+    def maxMeetings(self, N : int, S : List[int], F : List[int]) -> List[int]:
+        meetings=[]
+        for i in range(N):
+            meetings.append((F[i],S[i],i+1))
+        meetings=sorted(meetings,key=lambda x:(x[0],x[2]))
+        last_end=meetings[0][0]
+        result=[meetings[0][2]]
+        for end,start,idx in meetings[1:]:
+            if start>last_end:
+                result.append(idx)
+                last_end=end
+        return sorted(result)
+		
+2. Minimum number of platforms required for a railway
+
+class Solution:    
+    #Function to find the minimum number of platforms required at the
+    #railway station such that no train waits.
+    def minimumPlatform(self,arr,dep):
+        arr.sort()
+        dep.sort()
+        ans=1
+        count=1
+        i=1
+        j=0
+        while i<len(arr) and j<len(dep):
+            if arr[i]<=dep[j]:
+                i+=1
+                count+=1
+            else:
+                j+=1
+                count-=1
+            ans=max(ans,count)
+        return ans
+
+3. Job Sequencing Problem
+
+class Solution:
+    def find(self, parent, slot):
+        if parent[slot] == slot:
+            return slot
+        parent[slot] = self.find(parent, parent[slot])  # Path compression
+        return parent[slot]
+
+    def jobSequencing(self, deadline, profit):
+        n = len(profit)
+        jobs = [(profit[i], deadline[i]) for i in range(n)]
+        jobs.sort(reverse=True)  # Sort by profit descending
+
+        max_deadline = max(deadline)
+        parent = [i for i in range(max_deadline + 1)]  # DSU parent array
+
+        count_jobs = 0
+        total_profit = 0
+
+        for p, d in jobs:
+            available_slot = self.find(parent, d)
+            if available_slot > 0:
+                parent[available_slot] = self.find(parent, available_slot - 1)
+                #print(parent)# Union
+                count_jobs += 1
+                total_profit += p
+
+        return [count_jobs, total_profit]
+		
+4. Minimum number of Coins
+
+class Solution:
+    def minPartition(self, N):
+        den=[1,2,5,10,20,50,100,200,500,2000]
+        rden=[i for i in den if i<=N]
+        
+        rden.reverse()
+        i=0
+        temp=N
+        part=[]
+        while temp!=0 and i<len(rden):
+            if rden[i]<=temp:
+                count=temp//rden[i]
+                temp%=rden[i]
+                part=part+[rden[i]]*count
+            i+=1
+        return part

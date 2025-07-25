@@ -1,0 +1,249 @@
+1. Reverse a LinkedList
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        prev=None
+        curr=head
+        while curr:
+            next_node=curr.next
+            curr.next=prev
+            prev=curr
+            curr=next_node
+        return prev
+		
+2. Merge two sorted Linked List (use method used in mergeSort)
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        dummy = ListNode()  # Create a dummy node
+        res = dummy
+        while list1 is not None and list2 is not None:
+            if list1.val<=list2.val:
+                res.next=list1
+                list1=list1.next
+            else:
+                res.next=list2
+                list2=list2.next
+            res=res.next
+        while list1 is not None:
+            res.next=list1
+            list1=list1.next
+            res=res.next
+        while list2 is not None:
+            res.next=list2
+            list2=list2.next
+            res=res.next
+        return dummy.next
+		
+3. 	Remove N-th node from back of LinkedList
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        c=0
+        t=head
+        while t:
+            c+=1
+            t=t.next
+        pos=c-n+1
+        c=0
+        dummy=ListNode(0,head)
+        prev=dummy
+        t=head
+        while t:
+            c+=1
+            if c==pos:
+                prev.next=t.next
+                break
+            prev=t
+            t=t.next
+        return dummy.next
+		
+4. Delete a given Node when a node is given.(0(1) solution)
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def deleteNode(self, node):
+        node.val=node.next.val
+        node.next=node.next.next
+		
+5. 	Find intersection point of Y LinkedList
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        d1=headA
+        d2=headB
+        c1=0
+        while d1:
+            c1+=1
+            d1=d1.next
+        c2=0
+        while d2:
+            c2+=1
+            d2=d2.next
+        diff=abs(c1-c2)
+        h1=headA
+        h2=headB
+        if c1<c2:
+            for i in range(diff):
+                h2=h2.next
+        elif c1>c2:
+            for i in range(diff):
+                h1=h1.next
+        while h1 and h2:
+            if h1==h2:
+                return h1
+            h1=h1.next
+            h2=h2.next
+        return None
+
+6. 	Reverse a LinkedList in groups of size k.
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        res=ListNode()
+        dummy=res
+        st=[]
+        t=head
+        while t:
+            st.append(t)
+            nxt=t.next
+            #print(st)
+            if len(st)==k:
+                #print(st)
+                while st!=[]:
+                    dummy.next=st.pop()
+                    dummy=dummy.next
+            t=nxt
+        if len(st) in range(1,k):
+            for i in range(len(st)):
+                dummy.next=st[i]
+                dummy=dummy.next
+        dummy.next = None
+        return res.next
+		
+7. Check if a LinkedList is palindrome or not.
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+        t=head
+        l=[]
+        while t:
+            l.append(t.val)
+            t=t.next
+        l.reverse()
+        t=head
+        i=0
+        flag=True
+        #print(l)
+        while t:
+            if t.val!=l[i]:
+                flag=False
+                break
+            i+=1
+            t=t.next
+        return flag
+        
+8. Rotate a LinkedList
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        if not head or not head.next or k == 0:
+            return head
+        t=head
+        l=1
+        while t.next:
+            l+=1
+            t=t.next
+        t.next=head
+        a=k%l
+        if a==0:
+            t.next=None
+            return head
+        actual=l-a
+        t=head
+        for i in range(actual-1):
+            t=t.next
+        new_head=t.next
+        t.next=None
+        return new_head
+		
+9. Clone a Linked List with random and next pointer
+
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):
+        self.val = int(x)
+        self.next = next
+        self.random = random
+"""
+
+class Solution:
+    def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        if not head:
+            return None
+        t=head
+        while t:
+            copy=Node(t.val)
+            copy.next=t.next
+            t.next=copy
+            t=copy.next
+        t=head
+        while t:
+            if t.random:
+                t.next.random=t.random.next
+            t=t.next.next
+        t=head
+        res=head.next
+        while t:
+            copy=t.next
+            t.next=copy.next
+            if copy.next:
+                copy.next=copy.next.next
+            t=t.next
+        return res
+         
+
+                
+        

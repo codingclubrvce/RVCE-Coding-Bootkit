@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  /* display: flex; */
+  font-size: 100px;
+  margin: 20px;
+  padding: 12px;
+  font-family: "Alfa Slab One", serif;
+  background-color: gray;
+  border-radius: 19px;
+  width: 550px;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+
+}
+
+.today {
+  transform: translateX(100px);
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  font-family: "Merriweather", serif;
+  font-size: 30px;
+  font-weight: 350;
+  width: 350px;
+}
+
+
+.date {
+  display: inline-flex;
+  font-family: "Merriweather", serif;
+  font-size: 30px;
+  font-weight: 350;
+
+}
+
+.hours {
+  display: inline-flex;
+}
+
+.minutes {
+  display: inline-flex;
+}
+
+.seconds {
+  display: inline-flex;
+}

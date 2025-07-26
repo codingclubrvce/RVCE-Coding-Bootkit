@@ -1,1 +1,2 @@
 # Free C Resources 
+Comprehensive C programming tutorial for beginners by Mike Dane covering all core concepts including variables, data types, control structures, functions, pointers, and file handling with practical examples and step-by-step coding guidance - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0&pp=ygUPYyBmb3IgYmVnaW5uZXJz)

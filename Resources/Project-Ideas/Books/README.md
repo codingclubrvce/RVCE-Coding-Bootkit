@@ -1,1 +1,6 @@
-# Books on Project-Ideas 
+# Books on Project-Ideas
+
+*   [Automate the Boring Stuff with Python by Al Sweigart](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593275994/) - This book provides numerous practical, small-scale project ideas that demonstrate how to use Python to automate everyday tasks, perfect for beginners looking for real-world applications.
+*   [Impractical Python Projects by Lee Vaughan](https://www.amazon.com/Impractical-Python-Projects-Playful-Programming/dp/159327890X/) - It offers a collection of imaginative and challenging project ideas, from building a Mandelbrot set renderer to simulating a drone, ideal for intermediate students seeking to expand their skills.
+*   [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/) - While geared towards interviews, this book presents a vast array of algorithmic and data structure problems that serve as excellent conceptual project ideas for students wanting to build strong foundational computer science skills.
+*   [Invent Your Own Computer Games with Python by Al Sweigart](https://www.amazon.com/Invent-Your-Own-Computer-Games/dp/1593277954/) - This resource walks beginners through building a variety of simple games, providing concrete project ideas and step-by-step guidance to reinforce fundamental programming concepts.

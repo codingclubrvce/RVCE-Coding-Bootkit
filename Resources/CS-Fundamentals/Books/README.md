@@ -1,1 +1,6 @@
-# Books on CS-Fundamentals 
+# Books on CS-Fundamentals
+
+*   [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) - This highly visual and accessible book provides an intuitive introduction to core algorithms and data structures for beginners.
+*   [Computer Systems: A Programmer's Perspective by Randal E. Bryant and David R. O'Hallaron](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) - Essential for understanding how computers truly work from a programmer's viewpoint, bridging the gap between hardware and software.
+*   [Algorithms by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) - Offers a comprehensive and practical introduction to fundamental algorithms and data structures, with clear explanations and real-world applications.
+*   [Code Complete by Steve McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Software/dp/0735619670) - A timeless guide that teaches fundamental principles and best practices for constructing high-quality software, covering design, coding, debugging, and testing.

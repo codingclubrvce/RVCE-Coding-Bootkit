@@ -1,1 +1,6 @@
-# Books on Python 
+# Books on Python
+
+*   [Python Crash Course, 2nd Edition by Eric Matthes](https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280/) - This book is perfect for beginners, offering a fast-paced, project-based introduction to Python fundamentals and practical application development.
+*   [Automate the Boring Stuff with Python, 2nd Edition by Al Sweigart](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279922/) - It's invaluable for students who want to immediately apply Python to real-world tasks like web scraping, file manipulation, and automating repetitive tasks.
+*   [Think Python: How to Think Like a Computer Scientist by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/) - This book teaches fundamental programming concepts and computational thinking using Python, making it ideal for absolute beginners who want a solid theoretical foundation.
+*   [Effective Python: 90 Specific Ways to Write Better Python, 2nd Edition by Brett Slatkin](https://www.amazon.com/Effective-Python-Specific-Ways-Better/dp/0134853989/) - An essential resource for intermediate students to refine their Python skills, learn best practices, and write more idiomatic, efficient, and Pythonic code.

@@ -1,0 +1,6 @@
+
+
+* [The Git & GitHub Bootcamp by Colt Steele](https://www.udemy.com/course/git-and-github-bootcamp/) - A highly comprehensive and engaging course that takes students from absolute basics to advanced Git concepts and collaborative GitHub workflows.
+* [Pro Git by Scott Chacon and Ben Straub](https://www.amazon.com/Pro-Git-Scott-Chacon/dp/1484200772/) - The definitive, in-depth guide to Git, offering comprehensive coverage from fundamental commands to advanced repository management and team workflows.
+* [Git Essential Training: The Basics by Kevin Skoglund](https://www.linkedin.com/learning/git-essential-training-the-basics-2019/) - A well-structured course that systematically covers core Git commands and concepts, ideal for building a solid foundation in version control.
+* [Git and GitHub in Depth by Will Klein](https://frontendmasters.com/courses/git-github/) - An in-depth course focusing on practical Git and GitHub workflows, including advanced features and best practices for professional development.

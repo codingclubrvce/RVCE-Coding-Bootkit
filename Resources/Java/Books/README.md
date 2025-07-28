@@ -1,1 +1,6 @@
-# Books on Java 
+# Books on Java
+
+*   [Head First Java, 3rd Edition](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/1492089839/) - This book uses a visually rich, engaging format to make learning Java fun and intuitive for absolute beginners.
+*   [Core Java, Volume I—Fundamentals (12th Edition)](https://www.amazon.com/Core-Java-I-Fundamentals-12th/dp/0137673623/) - A comprehensive and authoritative resource that provides a deep dive into the foundational concepts of the Java language and its core libraries.
+*   [Effective Java (3rd Edition)](https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997/) - An indispensable guide for intermediate students to learn best practices, common pitfalls, and how to write robust, high-quality Java code.
+*   [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) - Essential for all developers, this book teaches how to write maintainable, readable, and efficient code using extensive Java examples and practical principles.

@@ -1,0 +1,6 @@
+
+
+*   [Machine Learning Specialization by Andrew Ng (DeepLearning.AI)](https://www.coursera.org/specializations/machine-learning-introduction) - This foundational specialization provides a comprehensive understanding of core machine learning concepts and algorithms, taught by an industry leader.
+*   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125074/) - An invaluable practical guide that teaches machine learning and deep learning concepts through hands-on Python code examples using popular libraries.
+*   [Machine Learning Scientist with Python Career Track on DataCamp](https://www.datacamp.com/tracks/machine-learning-scientist-with-python) - Offers interactive coding exercises and structured learning paths in machine learning, ideal for hands-on learners who want to build practical skills rapidly.
+*   [Python for Data Science and Machine Learning Bootcamp by Jose Portilla (Udemy)](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) - A highly-rated, comprehensive video course that guides beginners through Python essentials for data science before diving into various machine learning algorithms and projects.

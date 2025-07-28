@@ -1,1 +1,7 @@
-# Free Computer Networks Resources 
+# Free Computer Networks Resources
+
+*   [freeCodeCamp - Networking Basics Full Course](https://www.youtube.com/watch?v=qiQR5rWpXLY) - A comprehensive video course covering fundamental networking concepts from the ground up, ideal for visual learners and beginners.
+*   [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/) - An invaluable, concise guide to network programming (sockets) in C, perfect for understanding the practical implementation of network communication.
+*   [The TCP/IP Guide by Charles M. Kozierok](http://www.tcpipguide.com/) - A highly detailed and exhaustive online reference for the TCP/IP protocol suite, invaluable for deep dives into networking concepts.
+*   [Stanford CS144: Introduction to Computer Networking (Course Materials)](https://cs144.github.io/) - Offers a rigorous university-level introduction to computer networking principles through public lectures and course materials, providing a strong theoretical foundation.
+*   [GeeksforGeeks - Computer Networks Tutorial](https://www.geeksforgeeks.org/computer-network-tutorials/) - A comprehensive collection of tutorials and articles covering various computer networking topics, excellent for quick explanations and theoretical understanding.

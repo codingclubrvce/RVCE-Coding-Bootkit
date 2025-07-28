@@ -1,1 +1,6 @@
-# Project Ideas 
+# Project Ideas
+
+*   [100+ Computer Science Project Ideas for Students (and how to pick one) by freeCodeCamp](https://www.freecodecamp.org/news/computer-science-project-ideas-for-students/) - Offers a wide range of ideas categorized by difficulty and topic, perfect for sparking inspiration and guiding project selection across various domains.
+*   [Projects by karan (GitHub)](https://github.com/karan/Projects) - Provides a structured list of diverse projects, from simple to advanced, encouraging independent problem-solving across various programming languages.
+*   [100+ Project Ideas for Beginners by Catalin Pit (Dev.to)](https://dev.to/catalinpit/100-project-ideas-for-beginners-3p91) - A massive list of diverse project ideas across various technologies and difficulty levels, categorized for easy browsing and comprehensive inspiration.
+*   [25 Web Development Project Ideas for Beginners by Codecademy](https://www.codecademy.com/resources/blog/web-development-project-ideas-for-beginners/) - Offers a curated list of practical project ideas specifically for aspiring web developers, complete with brief explanations and potential next steps.

@@ -1,1 +1,6 @@
-# Paid Java Resources 
+# Paid Java Resources
+
+*   [Java Programming Masterclass for Software Developers by Tim Buchalka (Udemy)](https://www.udemy.com/course/java-the-complete-java-developer-course/) - This extensive course provides a massive amount of practical Java content, guiding students from absolute basics to advanced topics with numerous coding exercises.
+*   [Java Programming and Software Engineering Fundamentals Specialization (Coursera by Duke University)](https://www.coursera.org/specializations/java-programming) - This specialization from Duke University offers a well-structured, academic approach to learning Java, focusing on object-oriented programming principles and software development fundamentals.
+*   [Head First Java, 3rd Edition by Kathy Sierra and Bert Bates (Book)](https://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/1492089839) - Using a unique, highly visual, and engaging approach, this book makes complex Java concepts easy to understand and remember for beginners.
+*   [Core Java, Volume I--Fundamentals by Cay S. Horstmann (Book)](https://www.amazon.com/Core-Java-I-Fundamentals-12th/dp/0137673623) - This classic and highly detailed textbook provides a deep, authoritative dive into the core Java language features and APIs, ideal for serious learners wanting a thorough understanding.

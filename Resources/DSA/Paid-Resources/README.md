@@ -1,1 +1,7 @@
-# Paid DSA Resources 
+# Paid DSA Resources
+
+*   [LeetCode Premium](https://leetcode.com/premium/) - LeetCode Premium unlocks advanced problem filtering, official solutions, debugger access, and company-specific questions, which are invaluable for deep understanding and interview preparation.
+*   [AlgoExpert](https://www.algoexpert.io/) - AlgoExpert provides a well-structured curriculum with detailed video explanations and curated problems, making complex data structures and algorithms easier to grasp for interview readiness.
+*   [Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/) - This essential book offers a comprehensive guide to common interview questions, data structures, algorithms, and problem-solving strategies, making it indispensable for interview preparation.
+*   [Educative.io - Grokking the Coding Interview: Patterns for Coding Questions](https://www.educative.io/courses/grokking-the-coding-interview-patterns-for-coding-questions) - Educative.io's "Grokking the Coding Interview" provides interactive, text-based lessons that teach common DSA patterns, enabling students to solve a wide range of interview problems efficiently.
+*   [Elements of Programming Interviews in Python: The Insiders' Guide by Adnan Aziz, Tsung-Hsien Lee, Amit Prakash](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/) - This book offers a challenging collection of programming problems with detailed solutions and insightful discussions across various DSA topics, ideal for solidifying advanced concepts and interview mastery.

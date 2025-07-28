@@ -1,1 +1,6 @@
-# Paid C Resources 
+# Paid C Resources
+
+*   [C Primer Plus by Stephen Prata](https://www.amazon.com/Primer-Plus-6th-Stephen-Prata/dp/0321776412) - This comprehensive book provides a thorough introduction to C, covering both fundamental concepts and advanced topics with clear explanations and practical examples, making it ideal for beginners.
+*   [The C Programming Language by Brian W. Kernighan and Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) - Often called the "bible" of C, this concise and authoritative book by the language's creators offers a deep and definitive understanding of C's core principles.
+*   [C Programming with Linux (Duke University on Coursera)](https://www.coursera.org/specializations/c-programming-linux) - This Coursera specialization from Duke University teaches C programming fundamentals within a practical Linux environment, focusing on real-world application and system-level programming.
+*   [Learn C Programming (Codecademy Pro)](https://www.codecademy.com/learn/learn-c) - Codecademy Pro offers an interactive, hands-on learning experience to master C fundamentals through practical exercises and projects, perfect for active learners.

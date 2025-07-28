@@ -1,1 +1,6 @@
-# Paid Computer Networks Resources 
+# Paid Computer Networks Resources
+
+*   [Computer Networking: A Top-Down Approach by James Kurose & Keith Ross](https://www.amazon.com/Computer-Networking-Top-Down-Approach-8th/dp/0136681557) - This widely-regarded textbook provides a comprehensive, accessible introduction to networking concepts by building from the application layer down to the physical layer.
+*   [CompTIA Network+ (N10-008) Full Course by Mike Meyers on Udemy](https://www.udemy.com/course/comptia-network-n10-008-full-course/) - This highly-rated video course offers a practical, certification-oriented approach to networking fundamentals, making complex topics easy to understand for beginners.
+*   [The Complete Networking Fundamentals Course. Your CCNA Start by David Bombal on Udemy](https://www.udemy.com/course/the-complete-networking-fundamentals-course-your-ccna-start/) - An incredibly popular and hands-on course that provides a deep dive into networking essentials, perfect for those aiming for a practical understanding or starting their CCNA journey.
+*   [Introduction to Computer Networking Specialization by University of Colorado Boulder on Coursera](https://www.coursera.org/specializations/computer-networking) - This university-level specialization provides a structured and rigorous academic foundation in computer networking, covering protocols, architectures, and emerging technologies.

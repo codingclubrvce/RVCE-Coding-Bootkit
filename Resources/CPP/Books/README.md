@@ -1,1 +1,5 @@
-# Books on CPP 
+# Books on CPP
+
+*   [Programming: Principles and Practice Using C++ (4th Edition)](https://www.amazon.com/Programming-Principles-Practice-Using-Plus/dp/0138096979/) - This book is an excellent starting point for absolute beginners, teaching fundamental programming concepts and good practices using C++ from the ground up.
+*   [C++ Primer (5th Edition)](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/) - A comprehensive and highly detailed guide, this book thoroughly covers modern C++ features and standard library, making it ideal for students seeking a deep understanding of the language.
+*   [A Tour of C++ (3rd Edition)](https://www.amazon.com/Tour-C-3rd-Bjarne-Stroustrup/dp/013681684X/) - For those with some prior programming experience, this concise book provides a high-level overview of modern C++ features, allowing for a quick grasp of the language's core elements.

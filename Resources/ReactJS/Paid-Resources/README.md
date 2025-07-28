@@ -1,1 +1,6 @@
-# Paid ReactJS Resources 
+# Paid ReactJS Resources
+
+*   [React - The Complete Guide (incl Hooks, React Router, Redux) by Maximilian Schwarzmüller (Udemy)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) - This incredibly comprehensive and frequently updated course covers all essential React concepts, from basics to advanced topics like Hooks, Redux, and React Router, making it ideal for a deep dive.
+*   [The Road to React by Robin Wieruch](https://www.robinwieruch.de/the-road-to-react/) - This practical, project-based book teaches React fundamentals by building a real-world application, emphasizing best practices and modern JavaScript.
+*   [React Courses on Frontend Masters](https://frontendmasters.com/courses/react/) - Frontend Masters offers deeply technical and expertly taught courses on React and related ecosystems, providing in-depth knowledge from industry leaders for serious learners.
+*   [React For Beginners by Wes Bos](https://reactforbeginners.com/) - This engaging and highly practical video course teaches modern React by building a real-world application, focusing on useful patterns and developer experience.

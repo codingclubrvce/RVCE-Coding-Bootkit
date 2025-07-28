@@ -1,1 +1,6 @@
-# Books on Hardware 
+# Books on Hardware
+
+*   [Code: The Hidden Language of Computer Hardware and Software by Charles Petzold](https://www.amazon.com/Code-Hidden-Language-Computer-Hardware/dp/0137909101/) - It beautifully demystifies how hardware and software truly interact, starting from basic switches and building up to complex systems in a highly accessible manner.
+*   [The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan and Shimon Schocken](https://www.amazon.com/Elements-Computing-Systems-Second-Principles/dp/0262539802/) - This book provides an unparalleled hands-on experience by guiding you through building an entire computer system, from basic logic gates to a high-level language and operating system.
+*   [Computer Organization and Design RISC-V Edition by David A. Patterson and John L. Hennessy](https://www.amazon.com/Computer-Organization-Design-RISC-V-Architecture/dp/0128203303/) - This foundational textbook provides a comprehensive understanding of modern computer architecture, covering topics like instruction set architecture, pipelining, and memory hierarchy.
+*   [But How Do It Know? - The Basic Principles of Computers for Everyone by J. Clark Scott](https://www.amazon.com/But-How-Do-Know-Principles/dp/0615303765/) - This book offers a wonderfully clear and gentle introduction to how computers fundamentally operate, using simple analogies and explanations to make complex topics understandable for beginners.

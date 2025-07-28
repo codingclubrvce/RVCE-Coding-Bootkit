@@ -1,1 +1,6 @@
-# Free Blockchain Resources 
+# Free Blockchain Resources
+
+* [Blockchain Full Course - Learn the Basics of Blockchain in 3 Hours by freeCodeCamp.org](https://www.youtube.com/watch?v=sI4yR04z_Qc) - A comprehensive video course that quickly covers blockchain fundamentals, cryptocurrencies, and practical concepts for beginners.
+* [Blockchain Basics by University at Buffalo (Coursera Audit)](https://www.coursera.org/learn/blockchain-basics) - This foundational course provides a clear, structured introduction to the core concepts, components, and applications of blockchain technology.
+* [Bitcoin and Cryptocurrency Technologies by Princeton University (Coursera Audit)](https://www.coursera.org/learn/cryptocurrency) - Taught by a leading expert, this course offers a deep dive into the cryptographic principles and technical details underpinning Bitcoin and other cryptocurrencies.
+* [Ethereum.org - Intro to Ethereum Developers Documentation](https://ethereum.org/en/developers/docs/intro-to-ethereum/) - The official hub for learning about Ethereum, offering clear explanations of its architecture, smart contracts, and how to start building on the platform.

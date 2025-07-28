@@ -1,1 +1,6 @@
-# Books on Cloud-DevOps 
+# Books on Cloud-DevOps
+
+*   [The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002/) - This foundational book provides a comprehensive guide to the principles and practices of DevOps, essential for understanding the cultural and technical shifts required for modern cloud operations.
+*   [Cloud Native DevOps with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud](https://www.amazon.com/Cloud-Native-DevOps-Kubernetes-Applications/dp/1492040762/) - It offers practical strategies for applying DevOps principles specifically within cloud-native environments using Kubernetes, a crucial technology for scalable application deployment.
+*   [Site Reliability Engineering: How Google Runs Production Systems](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/) - This book provides an invaluable look into Google's SRE practices, offering deep insights into building and maintaining highly reliable, scalable, and efficient cloud systems.
+*   [Terraform: Up & Running: Writing Infrastructure as Code](https://www.amazon.com/Terraform-Running-Writing-Infrastructure-Code/dp/1492046906/) - It's an excellent practical guide to Infrastructure as Code using Terraform, a fundamental skill for automating and managing cloud resources efficiently.

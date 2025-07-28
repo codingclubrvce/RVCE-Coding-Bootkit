@@ -1,1 +1,7 @@
-# Paid C++ Resources 
+# Paid C++ Resources
+
+*   [C++ Primer (5th Edition) by Stanley B. Lippman, Josée Lajoie, Barbara E. Moo](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113/) - This highly-regarded book offers a comprehensive and meticulous introduction to modern C++, covering the language from its fundamental concepts to advanced features.
+*   [Programming: Principles and Practice Using C++ (3rd Edition) by Bjarne Stroustrup](https://www.amazon.com/Programming-Principles-Practice-Using-3rd/dp/0136254654/) - Written by the creator of C++, this book provides a solid foundation in programming concepts and good software design principles alongside learning C++.
+*   [Beginning C++ Programming - From Beginner to Beyond on Udemy](https://www.udemy.com/course/beginning-c-plus-plus-programming/) - This popular video course offers a practical, project-based approach to learning C++ from scratch, guiding students through core concepts with hands-on examples.
+*   [C++ Fundamentals on Pluralsight](https://www.pluralsight.com/courses/c-plus-plus-fundamentals) - This professional video course provides a clear and concise introduction to the essential concepts of C++ from an experienced instructor, making complex topics approachable.
+*   [Learn C++ from

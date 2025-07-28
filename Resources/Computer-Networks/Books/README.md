@@ -1,1 +1,6 @@
-# Books on Computer-Networks 
+# Books on Computer-Networks
+
+*   [Computer Networking: A Top-Down Approach by James F. Kurose and Keith W. Ross](https://www.amazon.com/Computer-Networking-Top-Down-Approach-8th/dp/0136681557/) - This book provides an excellent, accessible introduction to network protocols and architecture, starting from the application layer down, making complex concepts easy to grasp for beginners.
+*   [Computer Networks by Andrew S. Tanenbaum and David J. Wetherall](https://www.amazon.com/Computer-Networks-Andrew-Tanenbaum/dp/0132126958/) - A comprehensive and authoritative classic that offers a deep dive into the underlying principles and technologies of computer networks, suitable for those seeking a more rigorous academic foundation.
+*   [Network+ Guide to Networks by Tamara Dean](https://www.amazon.com/Network-Guide-Networks-Tamara-Dean/dp/0357508272/) - This practical guide helps students understand fundamental networking concepts, hardware, and troubleshooting, providing a solid foundation for real-world network administration and design.
+*   [TCP/IP Illustrated, Vol. 1: The Protocols by W. Richard Stevens](https://www.amazon.com/TCP-Illustrated-Vol-Protocols-Addison-Wesley/dp/0201633469/) - For students ready to go beyond the basics, this book offers an unparalleled, detailed exploration of the TCP/IP protocol suite, essential for deep understanding of how the internet works at a fundamental level.

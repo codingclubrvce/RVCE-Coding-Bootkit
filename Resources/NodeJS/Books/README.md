@@ -1,1 +1,6 @@
-# Books on NodeJS 
+# Books on NodeJS
+
+*   [Get Programming with Node.js by Jonathan Wexler](https://www.manning.com/books/get-programming-with-node-js) - This book offers a highly practical, project-based introduction to Node.js, making it ideal for absolute beginners who prefer learning by building.
+*   [Express in Action by Evan Hahn](https://www.manning.com/books/express-in-action) - It provides a hands-on, project-oriented approach to mastering Express.js, the leading framework for building web applications with Node.js.
+*   [Node.js Design Patterns (3rd Edition) by Mario Casciaro and Luciano Mammino](https://www.packtpub.com/product/nodejs-design-patterns-third-edition/9781803230490) - An essential resource for intermediate students, this book teaches how to build scalable, resilient, and maintainable Node.js applications using professional design patterns.
+*   [Hands-On Node.js: A Practical Guide to Building Scalable Backend Services by Thomas Hunter II](https://www.oreilly.com/library/view/hands-on-node-js/9781492055620/) - This practical guide provides a comprehensive overview of building and deploying scalable backend services with Node.js, covering modern best practices and tools.

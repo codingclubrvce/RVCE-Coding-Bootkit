@@ -1,1 +1,6 @@
-# Books on HTML-CSS 
+# Books on HTML-CSS
+
+* [HTML and CSS: Design and Build Websites by Jon Duckett](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189/) - Its visually engaging layout and clear, practical explanations make it an ideal starting point for absolute beginners to understand HTML and CSS fundamentals.
+* [Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics by Jennifer Robbins](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491961503/) - This comprehensive guide provides a strong foundational understanding of HTML and CSS, alongside crucial introductions to web graphics and JavaScript, preparing students for full-stack development.
+* [A Smarter Way to Learn HTML & CSS by Mark Myers](https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/1497407817/) - Designed for maximum retention, this book uses short chapters and extensive practice exercises to solidify HTML and CSS concepts through active learning.
+* [The New CSS Layout by Rachel Andrew](https://abookapart.com/products/the-new-css-layout) - For students moving beyond basics, this book offers an indispensable deep dive into modern CSS layout techniques like Flexbox and Grid, crucial for building responsive and robust web pages.

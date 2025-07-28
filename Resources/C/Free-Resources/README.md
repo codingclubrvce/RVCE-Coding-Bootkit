@@ -1,2 +1,7 @@
-# Free C Resources 
-Comprehensive C programming tutorial for beginners by Mike Dane covering all core concepts including variables, data types, control structures, functions, pointers, and file handling with practical examples and step-by-step coding guidance - [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0&pp=ygUPYyBmb3IgYmVnaW5uZXJz)
+# Free C Resources
+
+*   [Harvard CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/2024/) - An incredibly comprehensive and engaging university-level course that teaches foundational computer science concepts using C as the primary language in its initial weeks, ideal for a deep dive.
+*   [C Programming Tutorial for Beginners by freeCodeCamp.org](https://www.youtube.com/watch?v=KJgsgmIpQAk) - A thorough, multi-hour video course designed for absolute beginners, covering C programming fundamentals with clear explanations and practical examples to get started quickly.
+*   [Beej's Guide to C Programming](https://beej.us/guide/bgc/) - A highly respected and practical online guide that provides a deep dive into C programming, particularly useful for understanding systems-level concepts and network programming.
+*   [GeeksforGeeks C Language](https://www.geeksforgeeks.org/c-language-set-1/) - A vast online repository of tutorials, articles, and code examples covering nearly every C topic, serving as an excellent reference for specific concepts and problem-solving.
+*   [Programiz C Tutorial](https://www.programiz.com/c-programming/) - A beginner-friendly online tutorial that explains core C concepts with simple language and clear examples, making it great for quick learning and reinforcing understanding.

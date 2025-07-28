@@ -1,1 +1,6 @@
-# Paid Python Resources 
+# Paid Python Resources
+
+*   [Automate the Boring Stuff with Python, 2nd Edition](https://www.amazon.com/Automate-Boring-Stuff-Python-2nd/dp/1593279198/) - This book is invaluable for beginners to learn practical Python by automating repetitive tasks, building confidence through immediate application.
+*   [100 Days of Code - The Complete Python Pro Bootcamp for 2024](https://www.udemy.com/course/100-days-of-code/) - This highly popular, project-based course provides a comprehensive and hands-on journey from beginner to advanced Python developer through daily coding challenges.
+*   [Python for Everybody Specialization](https://www.coursera.org/specializations/python) - This well-structured specialization offers a robust, academic foundation in Python programming, ideal for those who prefer a structured, university-style learning path.
+*   [Python Crash Course, 3rd Edition](https://www.amazon.com/Python-Crash-Course-3rd-Intelligent/dp/1718502702/) - This fast-paced book provides a solid introduction to Python fundamentals and then guides you through building three substantial projects, making it perfect for hands-on learners.

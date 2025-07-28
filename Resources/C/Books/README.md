@@ -1,1 +1,5 @@
-# Books on C 
+# Books on C
+
+*   [The C Programming Language (2nd Edition) by Brian W. Kernighan and Dennis M. Ritchie](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) - This classic provides a concise and authoritative introduction to C, essential for building a deep, foundational understanding of the language.
+*   [C Primer Plus (6th Edition) by Stephen Prata](https://www.amazon.com/Primer-Plus-Stephen-Prata/dp/0321928423) - A comprehensive and more verbose guide than K&R, this book offers extensive examples and exercises, making it ideal for beginners seeking detailed explanations and practice.
+*   [Head First C by David Griffiths and Dawn Griffiths](https://www.amazon.com/Head-First-Brain-Friendly-Guide-ebook/dp/B0090J4I9Q) - Utilizing a unique, visually rich, and engaging teaching style, this book makes complex C concepts accessible and memorable for absolute beginners.

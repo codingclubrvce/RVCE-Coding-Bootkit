@@ -1,1 +1,7 @@
-# Paid Competitive Programming Courses 
+# Paid Competitive Programming Courses
+
+*   [Guide to Competitive Programming: Learning and Improving Algorithms Through Problems by Antti Laaksonen](https://www.amazon.com/Guide-Competitive-Programming-Algorithms-Problems/dp/3030007876) - An excellent textbook that systematically covers essential algorithms and data structures for competitive programming, accompanied by numerous practice problems.
+*   [Competitive Programming 4 by Steven Halim and Felix Halim](https://cpbook.net/) - A comprehensive and advanced textbook that serves as a definitive reference for a wide array of algorithms, data structures, and problem-solving techniques essential for competitive programming.
+*   [LeetCode Premium](https://leetcode.com/premium/) - Provides access to a vast collection of interview-style problems, premium solutions, company-specific questions, and advanced features crucial for consistent practice and improvement.
+*   [AlgoExpert.io](https://www.algoexpert.io/) - Offers a structured curriculum of common coding interview problems with detailed video explanations and solutions in multiple languages, perfect for building a strong foundation for competitive programming.
+*   [Educative.io (e.g., "Grokking the Coding Interview: Learn Interactively")](https://www.educative.io/courses/grokking-the-coding-interview) - Provides interactive, text-based courses on algorithms and data structures, like "Grokking the Coding Interview," which break down complex topics into digestible lessons with hands-on exercises valuable for competitive programming.

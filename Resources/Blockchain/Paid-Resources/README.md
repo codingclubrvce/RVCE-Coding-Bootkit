@@ -1,1 +1,5 @@
-# Paid Blockchain Resources 
+# Paid Blockchain Resources
+
+*   [Blockchain Specialization by University at Buffalo (Coursera)](https://www.coursera.org/specializations/blockchain) - This specialization provides a comprehensive, university-grade foundation in blockchain technology, covering core concepts, smart contracts, and decentralized application development.
+*   [Ethereum and Solidity: The Complete Developer's Guide by Stephen Grider (Udemy)](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/) - A highly practical and project-based course that teaches you how to build real-world decentralized applications (DApps) on the Ethereum blockchain using Solidity.
+*   [Mastering Ethereum by Andreas M. Antonopoulos & Gavin Wood (O'Reilly)](https://www.oreilly.com/library/view/mastering-ethereum/9781491971932/) - This indispensable book offers an in-depth, technical exploration of the Ethereum protocol, smart contracts, and decentralized application development, perfect for serious learners.

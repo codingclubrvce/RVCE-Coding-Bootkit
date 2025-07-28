@@ -1,0 +1,7 @@
+
+
+*   [A Cloud Guru](https://acloudguru.com/) - A leading platform offering hands-on courses and labs designed to teach cloud and DevOps skills, making it excellent for practical learning and certification preparation across major cloud providers.
+*   [KodeKloud](https://kodekloud.com/) - Specializes in highly interactive, lab-focused courses that provide deep dives into critical DevOps tools like Kubernetes, Docker, Jenkins, and Prometheus through practical, guided exercises.
+*   [O'Reilly Learning](https://www.oreilly.com/online-learning/) - A comprehensive subscription service providing access to an extensive library of books, video courses, and interactive labs from top experts on cloud, DevOps, programming, and various tech topics.
+*   [The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Technology/dp/1942788002/) - This foundational book provides a comprehensive guide to the principles and practices of DevOps, offering actionable strategies for improving software delivery, operations, and organizational culture.
+*   [AWS Certified Solutions Architect - Associate 2024 by Stephane Maarek (Udemy)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/) - A highly-rated and in-depth Udemy course that thoroughly prepares students for the AWS Solutions Architect Associate certification, providing practical knowledge of core AWS services through clear explanations and hands-on demonstrations.

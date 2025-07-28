@@ -1,1 +1,6 @@
-# Free Internship Resources 
+# Free Internship Resources
+
+*   [How to Get a Software Engineering Internship: A Guide for Beginners by freeCodeCamp](https://www.freecodecamp.org/news/how-to-get-a-software-engineering-internship/) - This comprehensive article provides a step-by-step roadmap for students, covering everything from resume building to interview preparation.
+*   [How to Get an Internship: A Step-by-Step Guide by Indeed Career Guide](https://www.indeed.com/career-guide/finding-a-job/how-to-get-an-internship) - A practical guide that breaks down the internship search process into manageable steps, from identifying interests to acing the interview.
+*   [How to Find an Internship: Your Complete Guide to Landing the Perfect Opportunity by The Muse](https://www.themuse.com/advice/how-to-find-an-internship) - This detailed guide offers advice on finding suitable internships, crafting compelling applications, and leveraging networking for success.
+*   [How To Get A Tech Internship (From A FAANG Intern) by Byte by Byte](https://www.youtube.com/watch?v=R_Q0X8o_5Bw) - This video provides actionable insights

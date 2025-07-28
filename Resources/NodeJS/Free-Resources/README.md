@@ -1,1 +1,6 @@
-# Free NodeJS Resources 
+# Free NodeJS Resources
+
+*   [Node.js and Express.js - Full Course for Beginners by freeCodeCamp](https://www.youtube.com/watch?v=Oe421EPjeWM) - A comprehensive video course that guides you through building server-side applications with Node.js and Express.js from scratch.
+*   [Node.js Tutorial for Beginners - The Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9jsz4LDYc6Tf_JKmGTZDNuc) - This video series offers clear, step-by-step explanations for understanding Node.js fundamentals and building practical applications.
+*   [Node.js Official Documentation - Guides](https://nodejs.org/en/docs/guides) - The official source for in-depth guides covering core Node.js concepts, best practices, and module usage, essential for deeper understanding.
+*   [Mozilla Developer Network (MDN) Web Docs - Node.js](https://developer.mozilla.org/en-US/docs/Glossary/Node.js) - Provides excellent conceptual overviews of Node.js and related server-side JavaScript technologies, often with practical examples.

@@ -1,0 +1,7 @@
+
+
+*   [AWS Free Tier & Documentation](https://aws.amazon.com/free/) - Provides invaluable hands-on experience with core cloud services and comprehensive official guides essential for practical learning.
+*   [Microsoft Learn (Azure DevOps Learning Paths)](https://learn.microsoft.com/en-us/training/browse/?expanded=azure&products=azure-devops) - Offers structured, interactive learning paths with modules and hands-on exercises to build foundational knowledge in Azure DevOps and cloud concepts.
+*   [Kubernetes Course - Full Beginners Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=X48g7m_2C0o) - A comprehensive video course that breaks down the complex topic of Kubernetes into understandable concepts and practical demonstrations crucial for container orchestration.
+*   [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=fqMOX6JJhGo) - Provides an excellent, practical introduction to Docker, a fundamental technology for containerization in modern Cloud DevOps workflows.
+*   [Google Cloud Skills Boost (Free Tier Labs/Quests)](https://cloud.google.com/training/skills-boost) - Offers hands-on labs and quests that allow students to practice using Google Cloud services in real environments, often including DevOps-related tasks and scenarios.

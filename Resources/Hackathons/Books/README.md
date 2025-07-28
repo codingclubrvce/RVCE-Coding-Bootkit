@@ -1,1 +1,6 @@
-# Books on Hackathons 
+# Books on Hackathons
+
+*   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1501121746/) - This book provides a practical, step-by-step guide to quickly validate ideas and build prototypes, mirroring the rapid development cycle of a hackathon.
+*   [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/) - It introduces the build-measure-learn feedback loop and the concept of Minimum Viable Product (MVP), essential for rapidly developing and validating ideas during a hackathon.
+*   [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you by Rob Fitzpatrick](https://www.amazon.com/Mom-Test-customers-business-everyone/dp/1492180709/) - This book teaches practical techniques for asking effective questions to validate project ideas and understand user needs, which is crucial for building a relevant hackathon solution.
+*   [Made to Stick: Why Some Ideas Survive and Others Die by Chip Heath and Dan Heath](https://www.amazon.com/Made-Stick-Ideas

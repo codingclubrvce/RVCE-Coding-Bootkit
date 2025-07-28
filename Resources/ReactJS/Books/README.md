@@ -1,1 +1,5 @@
-# Books on ReactJS 
+# Books on ReactJS
+
+*   [Learning React: Modern Patterns for Developing React Apps by Alex Banks and Eve Porcello](https://www.amazon.com/Learning-React-Modern-Patterns-Developing/dp/1492051720/) - This book offers a comprehensive and up-to-date guide to building robust React applications, covering core concepts, Hooks, and modern patterns essential for any React developer.
+*   [The Road to React by Robin Wieruch](https://www.robinwieruch.de/the-road-to-react/) - This hands-on guide teaches React by building a real-world application from scratch, making it ideal for beginners who prefer a project-based learning approach.
+*   [React Explained: Your Step-by-Step Guide to React by Zac Gordon](https://www.amazon.com/React-Explained-Step-Step-Guide/dp/1732049818/) - This book provides an incredibly clear and patient introduction to React, breaking down complex topics into digestible steps for those new to the library.

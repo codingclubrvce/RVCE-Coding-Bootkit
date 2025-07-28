@@ -1,1 +1,6 @@
-# Books on Competitive-Programming 
+# Books on Competitive-Programming
+
+*   [Competitive Programming 4 by Steven Halim and Felix Halim](https://cpbook.net/) - This book serves as the definitive reference for competitive programmers, covering a vast array of algorithms and data structures with an emphasis on problem-solving strategies.
+*   [Guide to Competitive Programming: Learning and Improving Algorithms Through Problems by Antti Laaksonen](https://link.springer.com/book/10.1007/978-3-030-16168-9) - This book offers a practical, problem-oriented approach to learning competitive programming, making complex topics accessible through numerous examples and exercises.
+*   [Cracking the Coding Interview: 189 Programming Questions and Solutions by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850) - While geared towards job interviews, this book provides excellent practice on common data structures and algorithms, helping build the fundamental problem-solving skills crucial for competitive programming.
+*   [Algorithms (4th Edition) by Robert Sedgewick and Kevin Wayne](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) - A comprehensive academic textbook that provides a deep, foundational understanding of essential algorithms and data structures, which is invaluable for mastering advanced competitive programming concepts.

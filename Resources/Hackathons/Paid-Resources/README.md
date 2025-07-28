@@ -1,1 +1,6 @@
-# Paid Hackathon Prep 
+# Paid Hackathon Prep
+
+*   [The Hackathon Handbook: The Beginner's Guide to Winning Hackathons and Building Innovative Ideas by John S. Lim](https://www.amazon.com/Hackathon-Handbook-Beginners-Winning-Hackathons/dp/B08V5QJ298/) - This dedicated guide offers essential strategies and tips for students to navigate hackathons effectively, from idea generation to presentation, significantly increasing their chances of success.
+*   [Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X) - This book provides a practical, step-by-step guide to tackling big challenges and testing new ideas rapidly, mirroring the fast-paced, problem-solving nature of hackathons.
+*   [Hackathon Success: Win Any Coding Competition by Andrei Neagoie (Udemy)](https://www.udemy.com/course/hackathon-success-win-any-coding-competition/) - This course provides a structured approach to hackathon participation, covering ideation, teamwork, rapid prototyping, and presentation skills crucial for winning competitions.
+*   [Learning Design Sprints by Douglas Ferguson (LinkedIn Learning)](https://www.linkedin.com/learning/learning-design-sprints) - This course teaches the structured methodology of design sprints, a valuable skill for rapid problem-solving and prototyping that directly applies to the time-constrained environment of hackathons.

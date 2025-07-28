@@ -1,0 +1,6 @@
+
+
+*   [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - This comprehensive, project-based curriculum teaches HTML and CSS fundamentals through hands-on coding challenges to build responsive web pages.
+*   [MDN Web Docs (HTML & CSS sections)](https://developer.mozilla.org/en-US/docs/Web) - The definitive and most reliable reference for HTML and CSS, providing detailed explanations, syntax examples, and browser compatibility information for all web technologies.
+*   [The Odin Project (Foundations/HTML & CSS sections)](https://www.theodinproject.com/paths/foundations/courses/foundations) - A highly structured, self-paced curriculum that guides students through building real-world projects, offering a robust foundation in HTML and CSS alongside other web development skills.
+*   [Kevin Powell's YouTube Channel (CSS focus)](https://www.youtube.com/@KevinPowell) - An excellent resource for visual learners, offering clear, in-depth tutorials and practical tips specifically focused on mastering modern CSS concepts and techniques.

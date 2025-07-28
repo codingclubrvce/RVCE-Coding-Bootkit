@@ -1,1 +1,6 @@
-# Paid Project Courses 
+# Paid Project Courses
+
+*   [The Web Developer Bootcamp 2024 by Colt Steele (Udemy)](https://www.udemy.com/course/the-web-developer-bootcamp-2024/) - This comprehensive course is structured around building numerous full-stack projects, offering practical experience and a strong portfolio for web development.
+*   [Automate the Boring Stuff with Python by Al Sweigart (Amazon)](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming/dp/1593279922/) - This highly practical book teaches Python by guiding students through building useful, real-world automation scripts and small applications.
+*   [Frontend Mentor Pro](https://www.frontendmentor.io/pro) - This platform provides access to professional design files for a wide range of front-end projects, enabling students to practice building polished UIs and create impressive portfolio pieces.
+*   [The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann (Udemy)](https://www.udemy.com/course/the-complete-javascript-course/) - This intensive course focuses on teaching JavaScript by guiding students through the development of multiple modern web applications and features, building a strong foundation and practical skills.

@@ -1,1 +1,6 @@
-# Books on JavaScript 
+# Books on JavaScript
+
+*   [Eloquent JavaScript, 3rd Edition by Marijn Haverbeke](https://eloquentjavascript.net/) - A comprehensive and free online book that builds a strong foundation in JavaScript from the basics to advanced concepts with practical exercises.
+*   [You Don't Know JS Yet (series) by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS) - This insightful series dives deep into the core mechanics of JavaScript, enabling students to truly understand how the language works under the hood.
+*   [A Smarter Way to Learn JavaScript by Mark Myers](https://www.amazon.com/Smarter-JavaScript-Unique-Approach-Learning/dp/1500582215) - It employs a unique, repetition-based approach with short chapters and interactive exercises, making it highly effective for solidifying JavaScript knowledge quickly.
+*   [Head First JavaScript Programming by Eric Freeman and Elisabeth Robson](https://www.amazon.com/Head-First-JavaScript-Programming-Freeman/dp/144934013X) - This book uses a visually rich, brain-friendly approach to teach JavaScript concepts in an engaging and memorable way, perfect for visual learners and beginners.

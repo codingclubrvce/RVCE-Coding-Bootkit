@@ -1,1 +1,6 @@
-# Paid JavaScript Resources 
+# Paid JavaScript Resources
+
+*   [The Complete JavaScript Course 2024: From Zero to Expert! by Jonas Schmedtmann](https://www.udemy.com/course/the-complete-javascript-course/) - This highly comprehensive and project-based course is ideal for beginners to become proficient in modern JavaScript, covering everything from fundamentals to advanced concepts and real-world applications.
+*   [You Don't Know JS Yet (Book Series) by Kyle Simpson](https://www.amazon.com/You-Dont-Know-JS-Yet-Series/dp/B08V5Q3C61) - This essential book series provides an incredibly deep and nuanced understanding of JavaScript's core mechanics and advanced topics, making it invaluable for students looking to master the language beyond the basics.
+*   [JavaScript: The Advanced Concepts by Andrei Neagoie](https://academy.zerotomastery.io/courses/javascript-advanced-concepts) - This course is perfect for intermediate learners who want to solidify their understanding of advanced JavaScript features like prototypal inheritance, closures, and asynchronous programming, preparing them for complex applications.
+*   [JavaScript: The Hard Parts, v2 by Will Sentance](https://frontendmasters.com/courses/javascript-hard-parts-v2/) - This highly acclaimed course demystifies complex JavaScript concepts such as callbacks, closures, and asynchronous programming, making it indispensable for students aiming to truly understand how JavaScript works under the hood.

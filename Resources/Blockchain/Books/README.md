@@ -1,1 +1,5 @@
-# Books on Blockchain 
+# Books on Blockchain
+
+*   [Blockchain Basics: A Non-Technical Introduction in 25 Steps by Daniel Drescher](https://www.amazon.com/Blockchain-Basics-Non-Technical-Introduction-Steps/dp/1484226034) - This book provides a clear, step-by-step introduction to blockchain concepts, perfect for students needing a solid conceptual foundation before diving into technical details.
+*   [Mastering Bitcoin: Programming the Open Blockchain by Andreas M. Antonopoulos](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388) - An essential deep dive into the technical underpinnings of Bitcoin, valuable for students looking to understand the core cryptography, network protocols, and architecture of blockchain.
+*   [Mastering Ethereum: Building Smart Contracts and DApps by Andreas M. Antonopoulos and Gavin Wood](https://www.amazon.com/Mastering-Ethereum-Building-Smart-Contracts/dp/1491971946) - This comprehensive guide is crucial for students eager to learn about Ethereum's architecture, smart contract development, and the creation of decentralized applications.

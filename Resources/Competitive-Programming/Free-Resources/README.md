@@ -1,1 +1,6 @@
-# Free Competitive Programming Resources 
+# Free Competitive Programming Resources
+
+*   [USACO Guide](https://usaco.guide/) - A comprehensive, well-structured guide covering essential competitive programming topics from beginner to advanced levels, complete with problems and solutions.
+*   [Codeforces](https://codeforces.com/) - The leading online platform for competitive programming, offering regular contests, a vast problem archive, and a strong community to practice and improve problem-solving skills.
+*   [GeeksforGeeks (Competitive Programming Section)](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/) - An extensive resource providing detailed explanations of algorithms and data structures, along with code examples and competitive programming-style problems to solidify understanding.
+*   [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp) - A highly recommended series of problems specifically designed to help students master Dynamic Programming, a crucial technique in competitive programming, with varying difficulty levels.

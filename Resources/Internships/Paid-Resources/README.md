@@ -1,1 +1,6 @@
-# Paid Internship Prep 
+# Paid Internship Prep
+
+*   [Cracking the Coding Interview, 6th Edition by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850/) - This book is an indispensable resource for understanding the data structures, algorithms, and common interview questions necessary to excel in technical interviews for software engineering internships.
+*   [AlgoExpert](https://www.algoexpert.io/) - Offers a curated collection of coding interview problems with detailed video explanations and solutions in multiple languages, providing a structured approach to master algorithms and data structures.
+*   [Educative.io: Grokking the Coding Interview: Learn Interactively](https://www.educative.io/courses/grokking-the-coding-interview-learn-interactively) - Focuses on teaching universal problem-solving patterns for coding interviews, enabling students to efficiently tackle a wide variety of algorithmic challenges.
+*   [LinkedIn Learning: Getting Your First Tech Internship by John Sonmez](https://www.linkedin.com/learning/getting-your-first-tech-internship) - This course guides students through the entire process of securing a tech internship, from resume building and networking to interview preparation and offer negotiation.

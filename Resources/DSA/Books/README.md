@@ -1,1 +1,6 @@
-# Books on DSA 
+# Books on DSA
+
+*   [Grokking Algorithms by Aditya Bhargava](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) - This highly visual and intuitive book simplifies complex algorithm concepts, making them accessible and easy to understand for absolute beginners.
+*   [Algorithms by Robert Sedgewick & Kevin Wayne](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) - A comprehensive and practical textbook that provides clear explanations and implementations of essential data structures and algorithms, often using Java, making it great for hands-on learning.
+*   [Cracking the Coding Interview by Gayle Laakmann McDowell](https://www.amazon.com/Cracking-Coding-Interview-6th-Programming/dp/0984782850) - Essential for understanding how data structures and algorithms are applied in real-world problem-solving scenarios, particularly in technical interviews, with numerous practice problems.
+*   [Data Structures and Algorithms in Python by Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275) - This book offers a detailed introduction to fundamental data structures and algorithms with clear explanations and practical implementations specifically in Python, perfect for Python-focused learners.

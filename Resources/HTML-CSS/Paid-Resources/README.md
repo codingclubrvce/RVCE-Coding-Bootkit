@@ -1,0 +1,6 @@
+
+
+*   [Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann (Udemy)](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) - This highly-rated course provides a deep dive into modern HTML and CSS, focusing on responsive design and building real-world projects with best practices.
+*   [HTML and CSS: Design and Build Websites by Jon Duckett (Amazon)](https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189) - An exceptionally visual and beginner-friendly book that makes learning HTML and CSS intuitive and engaging through clear explanations and excellent design.
+*   [The Complete 2024 Web Development Bootcamp by Angela Yu (Udemy)](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - A comprehensive bootcamp that provides a solid foundation in HTML and CSS as part of a broader full-stack curriculum, ideal for beginners seeking a complete roadmap.
+*   [Frontend Masters (Subscription Platform)](https://frontendmasters.com/) - This platform offers high-quality, in-depth workshops from industry experts on various advanced HTML and CSS topics, perfect for intermediate students looking to master specific skills.

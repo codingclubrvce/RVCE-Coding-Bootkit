@@ -1,1 +1,6 @@
-# Free Hackathon Resources 
+# Free Hackathon Resources
+
+*   [Major League Hacking (MLH) Resources](https://mlh.io/resources) - MLH is the official student hackathon league, providing comprehensive guides, event listings, and community support essential for student participants.
+*   [Devpost's "How to Hack: A Beginner's Guide to Hackathons"](https://devpost.com/blog/how-to-hack-a-beginners-guide-to-hackathons) - This detailed guide from Devpost breaks down the entire hackathon experience, from finding events to project submission, perfect for first-timers.
+*   [freeCodeCamp's "How to Prepare for a Hackathon: A Step-by-Step Guide"](https://www.freecodecamp.org/news/how-to-prepare-for-a-hackathon-a-step-by-step-guide/) - This article offers practical, actionable advice and a structured approach to preparing for a hackathon, helping students maximize their learning and success.
+*   [The Hackathon Guide](https://www.hackathon.guide/) - This dedicated website provides a concise, easy-to-understand overview of hackathons, offering tips on everything from team formation to pitching your project.

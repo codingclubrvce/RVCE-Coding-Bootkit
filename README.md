@@ -25,6 +25,7 @@ This repository is a centralized knowledge base designed to help first-year stud
 | Competitive-Programming | CP questions, tricks, and templates                     |
 | Computer-Networks       | Internet, protocols, IP, TCP/UDP                        |
 | DSA                     | Data Structures & Algorithms explained with code        |
+| Flutter                 | Getting started with Flutter for app development        |
 | Git-GitHub              | Version control, Git commands, collaboration tips       |
 | HTML-CSS                | Basics of web structure and styling                     |
 | Hackathons              | Ideas, preparation, and resources to participate        |
@@ -36,7 +37,6 @@ This repository is a centralized knowledge base designed to help first-year stud
 | Project-Ideas           | Mini-projects and ideas to build your portfolio         |
 | Python                  | Python basics, OOP, file handling, scripts              |
 | ReactJS                 | Basics of component-based frontend development          |
-| Flutter                 | Getting started with Flutter for app development        |
 
 ---
 

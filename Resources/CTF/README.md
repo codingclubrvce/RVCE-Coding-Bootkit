@@ -93,3 +93,5 @@ Explore the folders below to find the perfect resources for your CTF journey. Wh
 ---
 
 *Remember: CTF is about learning and ethical hacking. Always practice on systems you own or have permission to test.*
+
+--0NLY_FL4G$ <3

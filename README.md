@@ -25,6 +25,12 @@ This repository is a centralized knowledge base designed to help first-year stud
 
 🧠 **No prior experience needed — just curiosity and consistency!**
 
+These are the resources being written and maintained by:
+
+1. [Sumukha Upadhyaya](https://github.com/overclocked-2124) - [LinkedIn](https://www.linkedin.com/in/sumukhaupadhyaya/)
+2. [Vivaan Hooda](https://github.com/VivaanHooda) - [LinkedIn](https://www.linkedin.com/in/vivaanhooda/)
+3. [Vidisha Dewan](https://github.com/Vidisha231106) - [LinkedIn](https://www.linkedin.com/in/vidisha-dewan-537b11329/)
+
 ## 📂 Structure - Resources Folder
 
 | Folder                  | What's Inside                                           |
